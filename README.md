@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @daemon47
 - 👀 I’m interested in building innovative and impactful products
-- 🌱 I’m currently learning UI/UX 
+- 🌱 I’m currently learning UI
 - 💞️ I’m looking to collaborate on digital projects 
 
 
